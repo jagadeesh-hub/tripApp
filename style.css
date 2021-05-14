@@ -1,0 +1,36 @@
+#nav {
+  background-color: rgb(3, 47, 49);
+  font-size: 10px;
+}
+#nav a {
+  padding: 0px 30px;
+}
+#nav a:hover {
+  color: rgb(233, 243, 222);
+}
+
+#login {
+  display: flex;
+
+  padding: 0px 390px;
+}
+#login div {
+  padding: 0px 30px;
+}
+#login button {
+  border-radius: 10px;
+
+  font-weight: bold;
+  font-size: 13px;
+}
+#login button:hover {
+  background-color: rgb(6, 226, 6);
+}
+#contact {
+  display: flex;
+  font-size: 20px;
+  padding: 0px 350px;
+}
+#contact div {
+  padding: 10px 40px;
+}
